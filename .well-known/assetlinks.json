@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.artemkoshkin233.twa",
+    "sha256_cert_fingerprints": [
+      "93:E4:EA:6B:AC:62:8A:79:4C:27:92:CB:12:44:9F:EA:8C:F9:34:0A:C8:89:7F:F9:F2:AD:9E:74:D6:2A:D4:BB"
+    ]
+  }
+}]
